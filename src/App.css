@@ -2,6 +2,7 @@
   width: 800px;
   padding-bottom: 60px;
   fill: transparent;
+  fill-opacity: var(transparent);
 }
 
 .colour-border{
