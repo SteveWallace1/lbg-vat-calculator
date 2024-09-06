@@ -1,13 +1,14 @@
 .field{
-  width: 400px;
-  padding-bottom: 30px;
+  width: 800px;
+  padding-bottom: 60px;
+  fill: transparent;
 }
 
 .colour-border{
   border: 8px solid rgb(128, 0, 111);
-  padding: 30px;
+  padding: 60px;
 }
 
 .header{
-  padding: 30px;
+  padding: 60px;
 }
