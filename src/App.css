@@ -1,8 +1,9 @@
 .field{
-  width: 400px;
+  width: 350px;
   padding-bottom: 60px;
   fill: transparent;
   fill-opacity: var(transparent);
+  background-color: aquamarine;
 }
 
 .colour-border{
