@@ -1,6 +1,6 @@
 .field{
   width: 300px;
-  padding-bottom: 60px;
+  padding-bottom: 30px;
   fill: transparent;
   fill-opacity: var(transparent);
   background-color: aquamarine;
@@ -12,5 +12,5 @@
 }
 
 .header{
-  padding: 20px;
+  padding: 30px;
 }
