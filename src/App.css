@@ -1,5 +1,5 @@
 .field{
-  width: 350px;
+  width: 300px;
   padding-bottom: 60px;
   fill: transparent;
   fill-opacity: var(transparent);
@@ -7,8 +7,8 @@
 }
 
 .colour-border{
-  border: 8px solid rgb(128, 0, 111);
-  padding: 60px;
+  border: 6px solid rgb(128, 0, 111);
+  padding: 40px;
 }
 
 .header{
